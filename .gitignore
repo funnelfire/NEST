@@ -61,3 +61,5 @@ Cache
 YamlCache
 
 *.DS_Store
+
+*.ide
